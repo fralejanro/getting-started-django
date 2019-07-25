@@ -1,0 +1,6 @@
+*.pyc
+*~
+env_mysite
+__pycache__
+/static
+
